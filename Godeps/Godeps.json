@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/bloogrox/push-api-go",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": []
+}
